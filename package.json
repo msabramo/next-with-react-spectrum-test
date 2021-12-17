@@ -1,7 +1,10 @@
 {
   "name": "next-with-react-spectrum-test",
   "version": "0.1.0",
-  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/msabramo/next-with-react-spectrum-test"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
